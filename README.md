@@ -4,7 +4,8 @@
 
 ## Proje Açıklaması
 Bu proje, **Convolutional Neural Networks (CNN)** kullanarak belirli hayvan türlerinin görüntülerini sınıflandırmayı amaçlamaktadır. Model, farklı manipülasyon ve renk düzeltme tekniklerini içeren test setleriyle değerlendirilmiştir.
-
+## Veri Seti
+https://www.kaggle.com/datasets/rrebirrth/animals-with-attributes-2
 ## Hedef
 - Görüntü işleme ve veri artırma tekniklerini anlamak.
 - CNN modellerinin temel çalışma prensiplerini öğrenmek.
