@@ -121,6 +121,7 @@ Manipüle Edilmiş Test Seti İçin:
 Daha Fazla Veri Artırma: Parlaklık ve kontrast manipülasyonlarını artırarak modelin bu durumlara alışmasını sağlanabilir.
 
 Renk Sabitliği Uygulanmış Test Seti İçin:
+
 Grayscale Eğitim: Renk özelliklerine daha az bağımlı bir model için gri tonlama ile eğitim yapılabilir. 
 Alternatif Renk Dengeleme Teknikleri kullanılabilir örneğin Histogram eşitleme veya CLAHE
 
