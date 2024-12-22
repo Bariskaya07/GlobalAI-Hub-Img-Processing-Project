@@ -110,7 +110,7 @@ pip install tensorflow opencv-python numpy matplotlib scikit-learn
 
 3. **Renk Sabitliği Uygulanmış Set:**
    - Renk sabitliği uygulanmış test seti analiz edilmiştir.
-## Çözüm Önerileri 
+## Daha Yüksek Başarı Oranı Almak için Çözüm Önerileri 
 Orijinal Test Seti İçin:
 
 Model Derinliğini Artırma: Daha fazla katman ekleyerek modelin özellik öğrenme kapasitesini artırılabilir.
@@ -121,7 +121,7 @@ Manipüle Edilmiş Test Seti İçin:
 Daha Fazla Veri Artırma: Parlaklık ve kontrast manipülasyonlarını artırarak modelin bu durumlara alışmasını sağlanabilir.
 
 Renk Sabitliği Uygulanmış Test Seti İçin:
+Grayscale Eğitim: Renk özelliklerine daha az bağımlı bir model için gri tonlama ile eğitim yapılabilir. 
+Alternatif Renk Dengeleme Teknikleri kullanılabilir örneğin Histogram eşitleme veya CLAHE
 
-Grayscale Eğitim: Renk özelliklerine daha az bağımlı bir model için gri tonlama ile eğitim yapılabilir.
-Alternatif Renk Dengeleme Teknikleri kullanılabilir örneğin Histogram eşitleme veya CLAHE.
 ---
