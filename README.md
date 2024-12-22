@@ -114,6 +114,7 @@ pip install tensorflow opencv-python numpy matplotlib scikit-learn
 Orijinal Test Seti İçin:
 
 Model Derinliğini Artırma: Daha fazla katman ekleyerek modelin özellik öğrenme kapasitesini artırılabilir.
+
 Hyperparameter Optimization: learning rate ve batch size gibi parametreleri optimize edilebilir.
 
 Manipüle Edilmiş Test Seti İçin:
@@ -123,6 +124,7 @@ Daha Fazla Veri Artırma: Parlaklık ve kontrast manipülasyonlarını artırara
 Renk Sabitliği Uygulanmış Test Seti İçin:
 
 Grayscale Eğitim: Renk özelliklerine daha az bağımlı bir model için gri tonlama ile eğitim yapılabilir. 
+
 Alternatif Renk Dengeleme Teknikleri kullanılabilir örneğin Histogram eşitleme veya CLAHE
 
 ---
